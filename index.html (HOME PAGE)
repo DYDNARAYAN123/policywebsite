@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Policy Brief Series</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display&family=Inter&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header class="navbar">
+    <h2>PolicyBriefs</h2>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="briefs.html">Briefs</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h1>Policy Insights for a Changing World</h1>
+    <p>Research-driven analysis on governance, economy, and global issues.</p>
+    <a href="briefs.html" class="btn">Explore Briefs</a>
+</section>
+
+<section class="cards">
+    <div class="card">
+        <h3>Climate Policy</h3>
+        <p>Strategies for sustainable governance.</p>
+    </div>
+
+    <div class="card">
+        <h3>Digital Economy</h3>
+        <p>Regulating emerging technologies.</p>
+    </div>
+
+    <div class="card">
+        <h3>Public Health</h3>
+        <p>Policy responses to modern challenges.</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Policy Brief Series</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
